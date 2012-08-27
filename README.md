@@ -1,2 +1,0 @@
-researchplusdesign.github.com
-=============================
